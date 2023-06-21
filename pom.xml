@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.thingsboard.mock</groupId>
     <artifactId>device-mock</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0-alpha</version>
     <name>device-mock</name>
     <description>用来 mock 一个 / 多个虚拟的硬件设备，并连接到指定的 thingsboard 服务中。</description>
     <properties>
