@@ -1,0 +1,7 @@
+server:
+  port: 19090
+  servlet:
+    context-path: /device-mock
+spring:
+  application:
+    name: device-mock
